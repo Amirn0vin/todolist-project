@@ -1,0 +1,11 @@
+{
+  "firstName" : "milad", 
+  "lastName" : "bahrami", 
+  "age" : 23 , 
+  "fav" : ["programming" , "football"],
+  "firends" : {
+   "sex" : "pussy ", 
+   "anal" : "yes"
+  },
+  "test" : null
+}
